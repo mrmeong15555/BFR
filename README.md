@@ -5,6 +5,7 @@
 # PENGINSTALAN
  $ apt-get update<br>
  $ apt-get upgrade<br>
+ $ apt install requests<br>
  $ apt intsall git<br>
  $ git clone https://github.com/rafikhalbi/BFR<br>
  $ cd BFR<br>
